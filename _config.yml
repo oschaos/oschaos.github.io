@@ -4,7 +4,7 @@ SEOTitle: 程超的博客 | chaos Blog
 header-img: img/home-bg.jpg
 email: oscc92@gmail.com
 description: "关于前端与设计、黑客与画家 | 程超，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Chaos程超 的个人博客，与你一起发现更大的世界。"
-keyword: "程超, chaos, Android,ostea, @chaos, 程超的博客,  博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+keyword: "程超, chaos, Android,ostea, @chaos, 程超的博客,  博客, 个人网站, 互联网, 前端, 设计, 产品, 帅哥,江西农大,江西农业大学,江农"
 #url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     jxauostea
+zhihu_username:     chaosboy
+github_username:    ostea
+twitter_username:   chaosboyTrip
+#facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -60,11 +60,11 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: 6d6d15da062f1f45adbb990a5d17c139
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-90215705-1'            # Format: UA-xxxxxx-xx
+ga_domain: https://oschaos.github.io
 
 
 
