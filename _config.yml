@@ -1,10 +1,10 @@
 # Site settings
-title: chaosPro Blog
-SEOTitle: 程超的博客 | chaos Blog
+title: chaosPro
+SEOTitle: 程超的博客 | chaosPro
 header-img: img/home-bg.jpg
 email: oscc92@gmail.com
 description: "关于前端与设计、黑客与画家 | 程超，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Chaos程超 的个人博客，与你一起发现更大的世界。"
-keyword: "程超, chaos, Android,ostea, @chaos, 程超的博客,  博客, 个人网站, 互联网, 前端, 设计, 产品, 帅哥,江西农大,江西农业大学,江农"
+keyword: "程超, chaos, Android,ostea, @chaosPro, 程超的博客,  博客, 个人网站, 互联网, 前端, 设计, 产品, 帅哥,江西农大,江西农业大学,江农"
 url: "http://chaospro.xyz"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -71,7 +71,7 @@ ga_domain: https://oschaos.github.io
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "小小程序员一枚，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_chaos.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
